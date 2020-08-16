@@ -1,2 +1,4 @@
 memo.md
 .terraform/
+*.tfstate
+*.tfstate.backup
